@@ -13,3 +13,19 @@ body{
 .overlay{
   background-color: rgba(0, 0, 0, 0.068)
 }
+.home h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home ul{
+  font-weight: bold;
+  color: green;
+  border: 1px solid green;
+  background: rgb(214, 214, 214);
+  margin: 5px;
+}
+.home ul li {
+  padding: 3px 0px;
+  font-size: 20px;
+}
