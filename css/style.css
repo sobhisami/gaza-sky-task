@@ -1,0 +1,15 @@
+/*Typography*/
+*, ::after, ::before{
+box-sizing: border-box;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+}
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+.overlay{
+  background-color: rgba(0, 0, 0, 0.068)
+}
